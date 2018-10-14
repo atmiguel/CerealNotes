@@ -1,3 +1,26 @@
 .note-header {
     font-weight: bold;
 }
+
+.modal {
+    width: 350px;
+    height: 400px;
+    margin: 25px auto;
+
+    background-color: #fff;
+}
+
+#add-note-button {
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+}
+
+.note-type-button {
+    width: 100%;
+}
+
+.note-content {
+    width: 90%;
+    margin: auto;
+}
